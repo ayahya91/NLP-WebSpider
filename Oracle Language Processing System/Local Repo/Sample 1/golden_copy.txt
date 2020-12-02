@@ -1,0 +1,18 @@
+Golden Standard: NE
+1.  ('Woman', 'NNP')
+2.  ('U.S.', 'NNP'), ('President', 'NNP'), ('Bill', 'NNP'), ('Clinton', 'NNP')
+3.  ('Republican', 'NNP')
+4.  ('Bill', 'NNP'), ('Clinton', 'NNP')
+5.  ('Donald', 'NNP'), ('Trump', 'NNP')
+6.  ('Kathleen', 'NNP'), ('Willey', 'NNP')
+7.  ('Oval', 'NNP'), ('Office', 'NNP')
+8.  ('Roger', 'NNP'), ('Stone', 'NNP')
+9.  ('Hillary', 'NNP'), ('Clinton', 'NNP')
+10. ('White', 'NNP'), ('House', 'NNP')
+11. ('Reuters', 'NNP')
+12. ('Women', 'NNP'), ('Against', 'NNP'), ('Hillary', 'NNP')
+13. ('January', 'NNP')
+14. ('Rape', 'NNP'), ('Accountability', 'NNP'), ('Project', 'NNP')
+15. ('Education', 'NNP'), ('PAC', 'NNP')
+16. ('RAPE', 'NNP'), ('PAC', 'NNP')
+

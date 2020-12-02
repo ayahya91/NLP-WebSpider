@@ -1,0 +1,893 @@
+Loading Internal Chunker...
+
+Visiting: Local Repo/Sample 1/hillary_presidential_run.txt----------------------------------------------------------------------
+
+
+Normalized Text:
+
+Woman who accused Bill Clinton of assault to campaign against Hillary presidential run.
+One of the women who has accused former U.S. President Bill Clinton of sexual assault says she has agreed to work for an anti-Clinton political group being formed by a former advisor to Republican presidential candidate Donald Trump.
+Kathleen Willey, a former White House volunteer who says Bill Clinton groped her in an Oval Office hallway in 1993 when she came to him tearfully seeking a paid job, said she had agreed to become a paid national spokeswoman for a group being created by Roger Stone.
+Stone, a Republican strategist, said the group would become active should Hillary Clinton, Bill Clinton's wife, win the Democratic nomination in the 2016 race for the White House. Clinton is currently the front runner.
+"This gives me more of an opportunity to get this message out to young voters who weren't even born or don't even remember what happened and to the women who have suffered," Willey told Reuters.
+Willey said she will give interviews and speeches and appear in political advertisements to ensure the accusations remain part of the political discourse during the election campaign.
+"they are going to be confronted every day, on radio, on television, on billboards," Stone told Reuters, referring to the Clintons. He said he had reached a verbal agreement with Willey but cautioned that the group was still in the planning stages.
+Spokesmen for Hillary and Bill Clinton did not respond to questions about Willey.
+Stone's political action committee, which can raise virtually unlimited funds to advocate for or against candidates, was originally created last year under the name Women Against Hillary. It was renamed in January as the Rape Accountability Project for Education PAC, or RAPE PAC.
+
+Sentences:
+
+
+Woman who accused Bill Clinton of assault to campaign against Hillary presidential run.
+
+One of the women who has accused former U.S. President Bill Clinton of sexual assault says she has agreed to work for an anti-Clinton political group being formed by a former advisor to Republican presidential candidate Donald Trump.
+
+Kathleen Willey, a former White House volunteer who says Bill Clinton groped her in an Oval Office hallway in 1993 when she came to him tearfully seeking a paid job, said she had agreed to become a paid national spokeswoman for a group being created by Roger Stone.
+
+Stone, a Republican strategist, said the group would become active should Hillary Clinton, Bill Clinton's wife, win the Democratic nomination in the 2016 race for the White House.
+
+Clinton is currently the front runner.
+
+"This gives me more of an opportunity to get this message out to young voters who weren't even born or don't even remember what happened and to the women who have suffered," Willey told Reuters.
+
+Willey said she will give interviews and speeches and appear in political advertisements to ensure the accusations remain part of the political discourse during the election campaign.
+
+"they are going to be confronted every day, on radio, on television, on billboards," Stone told Reuters, referring to the Clintons.
+
+He said he had reached a verbal agreement with Willey but cautioned that the group was still in the planning stages.
+
+Spokesmen for Hillary and Bill Clinton did not respond to questions about Willey.
+
+Stone's political action committee, which can raise virtually unlimited funds to advocate for or against candidates, was originally created last year under the name Women Against Hillary.
+
+It was renamed in January as the Rape Accountability Project for Education PAC, or RAPE PAC.
+
+
+Tokenized Sentences:
+
+
+['Woman', 'who', 'accused', 'Bill', 'Clinton', 'of', 'assault', 'to', 'campaign', 'against', 'Hillary', 'presidential', 'run', '.']
+
+['One', 'of', 'the', 'women', 'who', 'has', 'accused', 'former', 'U.S.', 'President', 'Bill', 'Clinton', 'of', 'sexual', 'assault', 'says', 'she', 'has', 'agreed', 'to', 'work', 'for', 'an', 'anti-Clinton', 'political', 'group', 'being', 'formed', 'by', 'a', 'former', 'advisor', 'to', 'Republican', 'presidential', 'candidate', 'Donald', 'Trump', '.']
+
+['Kathleen', 'Willey', ',', 'a', 'former', 'White', 'House', 'volunteer', 'who', 'says', 'Bill', 'Clinton', 'groped', 'her', 'in', 'an', 'Oval', 'Office', 'hallway', 'in', '1993', 'when', 'she', 'came', 'to', 'him', 'tearfully', 'seeking', 'a', 'paid', 'job', ',', 'said', 'she', 'had', 'agreed', 'to', 'become', 'a', 'paid', 'national', 'spokeswoman', 'for', 'a', 'group', 'being', 'created', 'by', 'Roger', 'Stone', '.']
+
+['Stone', ',', 'a', 'Republican', 'strategist', ',', 'said', 'the', 'group', 'would', 'become', 'active', 'should', 'Hillary', 'Clinton', ',', 'Bill', 'Clinton', "'s", 'wife', ',', 'win', 'the', 'Democratic', 'nomination', 'in', 'the', '2016', 'race', 'for', 'the', 'White', 'House', '.']
+
+['Clinton', 'is', 'currently', 'the', 'front', 'runner', '.']
+
+['``', 'This', 'gives', 'me', 'more', 'of', 'an', 'opportunity', 'to', 'get', 'this', 'message', 'out', 'to', 'young', 'voters', 'who', 'were', "n't", 'even', 'born', 'or', 'do', "n't", 'even', 'remember', 'what', 'happened', 'and', 'to', 'the', 'women', 'who', 'have', 'suffered', ',', "''", 'Willey', 'told', 'Reuters', '.']
+
+['Willey', 'said', 'she', 'will', 'give', 'interviews', 'and', 'speeches', 'and', 'appear', 'in', 'political', 'advertisements', 'to', 'ensure', 'the', 'accusations', 'remain', 'part', 'of', 'the', 'political', 'discourse', 'during', 'the', 'election', 'campaign', '.']
+
+['``', 'they', 'are', 'going', 'to', 'be', 'confronted', 'every', 'day', ',', 'on', 'radio', ',', 'on', 'television', ',', 'on', 'billboards', ',', "''", 'Stone', 'told', 'Reuters', ',', 'referring', 'to', 'the', 'Clintons', '.']
+
+['He', 'said', 'he', 'had', 'reached', 'a', 'verbal', 'agreement', 'with', 'Willey', 'but', 'cautioned', 'that', 'the', 'group', 'was', 'still', 'in', 'the', 'planning', 'stages', '.']
+
+['Spokesmen', 'for', 'Hillary', 'and', 'Bill', 'Clinton', 'did', 'not', 'respond', 'to', 'questions', 'about', 'Willey', '.']
+
+['Stone', "'s", 'political', 'action', 'committee', ',', 'which', 'can', 'raise', 'virtually', 'unlimited', 'funds', 'to', 'advocate', 'for', 'or', 'against', 'candidates', ',', 'was', 'originally', 'created', 'last', 'year', 'under', 'the', 'name', 'Women', 'Against', 'Hillary', '.']
+
+['It', 'was', 'renamed', 'in', 'January', 'as', 'the', 'Rape', 'Accountability', 'Project', 'for', 'Education', 'PAC', ',', 'or', 'RAPE', 'PAC', '.']
+
+
+Tagged Sentences:
+
+
+[('Woman', 'NNP'), ('who', 'WP'), ('accused', 'VBD'), ('Bill', 'NNP'), ('Clinton', 'NNP'), ('of', 'IN'), ('assault', 'NN'), ('to', 'TO'), ('campaign', 'NN'), ('against', 'IN'), ('Hillary', 'NNP'), ('presidential', 'JJ'), ('run', 'NN'), ('.', '.')]
+
+[('One', 'CD'), ('of', 'IN'), ('the', 'DT'), ('women', 'NNS'), ('who', 'WP'), ('has', 'VBZ'), ('accused', 'VBN'), ('former', 'JJ'), ('U.S.', 'NNP'), ('President', 'NNP'), ('Bill', 'NNP'), ('Clinton', 'NNP'), ('of', 'IN'), ('sexual', 'JJ'), ('assault', 'NN'), ('says', 'VBZ'), ('she', 'PRP'), ('has', 'VBZ'), ('agreed', 'VBN'), ('to', 'TO'), ('work', 'VB'), ('for', 'IN'), ('an', 'DT'), ('anti-Clinton', 'JJ'), ('political', 'JJ'), ('group', 'NN'), ('being', 'VBG'), ('formed', 'VBN'), ('by', 'IN'), ('a', 'DT'), ('former', 'JJ'), ('advisor', 'NN'), ('to', 'TO'), ('Republican', 'NNP'), ('presidential', 'JJ'), ('candidate', 'NN'), ('Donald', 'NNP'), ('Trump', 'NNP'), ('.', '.')]
+
+[('Kathleen', 'NNP'), ('Willey', 'NNP'), (',', ','), ('a', 'DT'), ('former', 'JJ'), ('White', 'NNP'), ('House', 'NNP'), ('volunteer', 'NN'), ('who', 'WP'), ('says', 'VBZ'), ('Bill', 'NNP'), ('Clinton', 'NNP'), ('groped', 'VBD'), ('her', 'PRP$'), ('in', 'IN'), ('an', 'DT'), ('Oval', 'NNP'), ('Office', 'NNP'), ('hallway', 'NN'), ('in', 'IN'), ('1993', 'CD'), ('when', 'WRB'), ('she', 'PRP'), ('came', 'VBD'), ('to', 'TO'), ('him', 'PRP'), ('tearfully', 'RB'), ('seeking', 'VBG'), ('a', 'DT'), ('paid', 'VBN'), ('job', 'NN'), (',', ','), ('said', 'VBD'), ('she', 'PRP'), ('had', 'VBD'), ('agreed', 'VBN'), ('to', 'TO'), ('become', 'VB'), ('a', 'DT'), ('paid', 'JJ'), ('national', 'JJ'), ('spokeswoman', 'NN'), ('for', 'IN'), ('a', 'DT'), ('group', 'NN'), ('being', 'VBG'), ('created', 'VBN'), ('by', 'IN'), ('Roger', 'NNP'), ('Stone', 'NNP'), ('.', '.')]
+
+[('Stone', 'NNP'), (',', ','), ('a', 'DT'), ('Republican', 'JJ'), ('strategist', 'NN'), (',', ','), ('said', 'VBD'), ('the', 'DT'), ('group', 'NN'), ('would', 'MD'), ('become', 'VB'), ('active', 'JJ'), ('should', 'MD'), ('Hillary', 'NNP'), ('Clinton', 'NNP'), (',', ','), ('Bill', 'NNP'), ('Clinton', 'NNP'), ("'s", 'POS'), ('wife', 'NN'), (',', ','), ('win', 'VBP'), ('the', 'DT'), ('Democratic', 'JJ'), ('nomination', 'NN'), ('in', 'IN'), ('the', 'DT'), ('2016', 'CD'), ('race', 'NN'), ('for', 'IN'), ('the', 'DT'), ('White', 'NNP'), ('House', 'NNP'), ('.', '.')]
+
+[('Clinton', 'NNP'), ('is', 'VBZ'), ('currently', 'RB'), ('the', 'DT'), ('front', 'NN'), ('runner', 'NN'), ('.', '.')]
+
+[('``', '``'), ('This', 'DT'), ('gives', 'VBZ'), ('me', 'PRP'), ('more', 'JJR'), ('of', 'IN'), ('an', 'DT'), ('opportunity', 'NN'), ('to', 'TO'), ('get', 'VB'), ('this', 'DT'), ('message', 'NN'), ('out', 'IN'), ('to', 'TO'), ('young', 'JJ'), ('voters', 'NNS'), ('who', 'WP'), ('were', 'VBD'), ("n't", 'RB'), ('even', 'RB'), ('born', 'VB'), ('or', 'CC'), ('do', 'VBP'), ("n't", 'RB'), ('even', 'RB'), ('remember', 'VB'), ('what', 'WP'), ('happened', 'VBD'), ('and', 'CC'), ('to', 'TO'), ('the', 'DT'), ('women', 'NNS'), ('who', 'WP'), ('have', 'VBP'), ('suffered', 'VBN'), (',', ','), ("''", "''"), ('Willey', 'NNP'), ('told', 'VBD'), ('Reuters', 'NNP'), ('.', '.')]
+
+[('Willey', 'NNP'), ('said', 'VBD'), ('she', 'PRP'), ('will', 'MD'), ('give', 'VB'), ('interviews', 'NNS'), ('and', 'CC'), ('speeches', 'NNS'), ('and', 'CC'), ('appear', 'VB'), ('in', 'IN'), ('political', 'JJ'), ('advertisements', 'NNS'), ('to', 'TO'), ('ensure', 'VB'), ('the', 'DT'), ('accusations', 'NNS'), ('remain', 'VBP'), ('part', 'NN'), ('of', 'IN'), ('the', 'DT'), ('political', 'JJ'), ('discourse', 'NN'), ('during', 'IN'), ('the', 'DT'), ('election', 'NN'), ('campaign', 'NN'), ('.', '.')]
+
+[('``', '``'), ('they', 'PRP'), ('are', 'VBP'), ('going', 'VBG'), ('to', 'TO'), ('be', 'VB'), ('confronted', 'VBN'), ('every', 'DT'), ('day', 'NN'), (',', ','), ('on', 'IN'), ('radio', 'NN'), (',', ','), ('on', 'IN'), ('television', 'NN'), (',', ','), ('on', 'IN'), ('billboards', 'NNS'), (',', ','), ("''", "''"), ('Stone', 'NNP'), ('told', 'VBD'), ('Reuters', 'NNP'), (',', ','), ('referring', 'VBG'), ('to', 'TO'), ('the', 'DT'), ('Clintons', 'NNP'), ('.', '.')]
+
+[('He', 'PRP'), ('said', 'VBD'), ('he', 'PRP'), ('had', 'VBD'), ('reached', 'VBN'), ('a', 'DT'), ('verbal', 'JJ'), ('agreement', 'NN'), ('with', 'IN'), ('Willey', 'NNP'), ('but', 'CC'), ('cautioned', 'VBD'), ('that', 'IN'), ('the', 'DT'), ('group', 'NN'), ('was', 'VBD'), ('still', 'RB'), ('in', 'IN'), ('the', 'DT'), ('planning', 'NN'), ('stages', 'NNS'), ('.', '.')]
+
+[('Spokesmen', 'NNS'), ('for', 'IN'), ('Hillary', 'NNP'), ('and', 'CC'), ('Bill', 'NNP'), ('Clinton', 'NNP'), ('did', 'VBD'), ('not', 'RB'), ('respond', 'VB'), ('to', 'TO'), ('questions', 'NNS'), ('about', 'IN'), ('Willey', 'NNP'), ('.', '.')]
+
+[('Stone', 'NN'), ("'s", 'POS'), ('political', 'JJ'), ('action', 'NN'), ('committee', 'NN'), (',', ','), ('which', 'WDT'), ('can', 'MD'), ('raise', 'VB'), ('virtually', 'RB'), ('unlimited', 'JJ'), ('funds', 'NNS'), ('to', 'TO'), ('advocate', 'VB'), ('for', 'IN'), ('or', 'CC'), ('against', 'IN'), ('candidates', 'NNS'), (',', ','), ('was', 'VBD'), ('originally', 'RB'), ('created', 'VBN'), ('last', 'JJ'), ('year', 'NN'), ('under', 'IN'), ('the', 'DT'), ('name', 'NN'), ('Women', 'NNP'), ('Against', 'NNP'), ('Hillary', 'NNP'), ('.', '.')]
+
+[('It', 'PRP'), ('was', 'VBD'), ('renamed', 'VBN'), ('in', 'IN'), ('January', 'NNP'), ('as', 'IN'), ('the', 'DT'), ('Rape', 'NNP'), ('Accountability', 'NNP'), ('Project', 'NNP'), ('for', 'IN'), ('Education', 'NNP'), ('PAC', 'NNP'), (',', ','), ('or', 'CC'), ('RAPE', 'NNP'), ('PAC', 'NNP'), ('.', '.')]
+
+
+Context Chunker Results:
+
+(S
+  (NP Woman/NNP)
+  (NP who/WP)
+  accused/VBD
+  (NP Bill/NNP Clinton/NNP)
+  of/IN
+  (NP assault/NN)
+  to/TO
+  (NP campaign/NN)
+  against/IN
+  (NP Hillary/NNP presidential/JJ run/NN)
+  ./.)
+(S
+  (NP One/CD)
+  of/IN
+  (NP the/DT women/NNS)
+  (NP who/WP)
+  has/VBZ
+  accused/VBN
+  (NP former/JJ U.S./NNP President/NNP Bill/NNP Clinton/NNP)
+  of/IN
+  (NP sexual/JJ assault/NN)
+  says/VBZ
+  (NP she/PRP)
+  has/VBZ
+  agreed/VBN
+  to/TO
+  work/VB
+  for/IN
+  (NP an/DT anti-Clinton/JJ political/JJ group/NN)
+  being/VBG
+  formed/VBN
+  by/IN
+  (NP a/DT former/JJ advisor/NN)
+  to/TO
+  (NP
+    Republican/NNP
+    presidential/JJ
+    candidate/NN
+    Donald/NNP
+    Trump/NNP)
+  ./.)
+(S
+  (NP Kathleen/NNP Willey/NNP)
+  ,/,
+  (NP a/DT former/JJ White/NNP House/NNP volunteer/NN)
+  (NP who/WP)
+  says/VBZ
+  (NP Bill/NNP Clinton/NNP)
+  groped/VBD
+  (NP her/PRP$)
+  in/IN
+  (NP an/DT Oval/NNP Office/NNP hallway/NN)
+  in/IN
+  (NP 1993/CD)
+  when/WRB
+  (NP she/PRP)
+  came/VBD
+  to/TO
+  (NP him/PRP)
+  tearfully/RB
+  seeking/VBG
+  (NP a/DT paid/VBN job/NN)
+  ,/,
+  said/VBD
+  (NP she/PRP)
+  had/VBD
+  agreed/VBN
+  to/TO
+  become/VB
+  (NP a/DT paid/JJ national/JJ spokeswoman/NN)
+  for/IN
+  (NP a/DT group/NN)
+  being/VBG
+  created/VBN
+  by/IN
+  (NP Roger/NNP Stone/NNP)
+  ./.)
+(S
+  (NP Stone/NNP)
+  ,/,
+  (NP a/DT Republican/JJ strategist/NN)
+  ,/,
+  said/VBD
+  (NP the/DT group/NN)
+  would/MD
+  become/VB
+  (NP active/JJ)
+  should/MD
+  (NP Hillary/NNP Clinton/NNP)
+  ,/,
+  (NP Bill/NNP Clinton/NNP)
+  (NP 's/POS wife/NN)
+  ,/,
+  win/VBP
+  (NP the/DT Democratic/JJ nomination/NN)
+  in/IN
+  (NP the/DT 2016/CD race/NN)
+  for/IN
+  (NP the/DT White/NNP House/NNP)
+  ./.)
+(S
+  (NP Clinton/NNP)
+  is/VBZ
+  currently/RB
+  (NP the/DT front/NN runner/NN)
+  ./.)
+(S
+  ``/``
+  (NP This/DT)
+  gives/VBZ
+  (NP me/PRP)
+  more/JJR
+  of/IN
+  (NP an/DT opportunity/NN)
+  to/TO
+  get/VB
+  (NP this/DT message/NN)
+  out/IN
+  to/TO
+  (NP young/JJ voters/NNS)
+  (NP who/WP)
+  were/VBD
+  n't/RB
+  even/RB
+  born/VB
+  or/CC
+  do/VBP
+  n't/RB
+  even/RB
+  remember/VB
+  (NP what/WP)
+  happened/VBD
+  and/CC
+  to/TO
+  (NP the/DT women/NNS)
+  (NP who/WP)
+  have/VBP
+  suffered/VBN
+  ,/,
+  ''/''
+  (NP Willey/NNP)
+  told/VBD
+  (NP Reuters/NNP)
+  ./.)
+(S
+  (NP Willey/NNP)
+  said/VBD
+  (NP she/PRP)
+  will/MD
+  give/VB
+  (NP interviews/NNS and/CC speeches/NNS)
+  and/CC
+  appear/VB
+  in/IN
+  (NP political/JJ advertisements/NNS)
+  to/TO
+  ensure/VB
+  (NP the/DT accusations/NNS)
+  remain/VBP
+  (NP part/NN)
+  of/IN
+  (NP the/DT political/JJ discourse/NN)
+  during/IN
+  (NP the/DT election/NN campaign/NN)
+  ./.)
+(S
+  ``/``
+  (NP they/PRP)
+  are/VBP
+  going/VBG
+  to/TO
+  be/VB
+  confronted/VBN
+  (NP every/DT day/NN)
+  ,/,
+  on/IN
+  (NP radio/NN)
+  ,/,
+  on/IN
+  (NP television/NN)
+  ,/,
+  on/IN
+  (NP billboards/NNS)
+  ,/,
+  ''/''
+  (NP Stone/NNP)
+  told/VBD
+  (NP Reuters/NNP)
+  ,/,
+  referring/VBG
+  to/TO
+  (NP the/DT Clintons/NNP)
+  ./.)
+(S
+  (NP He/PRP)
+  said/VBD
+  (NP he/PRP)
+  had/VBD
+  reached/VBN
+  (NP a/DT verbal/JJ agreement/NN)
+  with/IN
+  (NP Willey/NNP)
+  but/CC
+  cautioned/VBD
+  that/IN
+  (NP the/DT group/NN)
+  was/VBD
+  still/RB
+  in/IN
+  (NP the/DT planning/NN stages/NNS)
+  ./.)
+(S
+  (NP Spokesmen/NNS)
+  for/IN
+  (NP Hillary/NNP and/CC)
+  (NP Bill/NNP Clinton/NNP)
+  did/VBD
+  not/RB
+  respond/VB
+  to/TO
+  (NP questions/NNS)
+  about/IN
+  (NP Willey/NNP)
+  ./.)
+(S
+  (NP Stone/NN)
+  (NP 's/POS political/JJ action/NN committee/NN)
+  ,/,
+  (NP which/WDT)
+  can/MD
+  raise/VB
+  virtually/RB
+  (NP unlimited/JJ funds/NNS)
+  to/TO
+  advocate/VB
+  for/IN
+  or/CC
+  against/IN
+  (NP candidates/NNS)
+  ,/,
+  was/VBD
+  originally/RB
+  created/VBN
+  (NP last/JJ year/NN)
+  under/IN
+  (NP the/DT name/NN Women/NNP Against/NNP Hillary/NNP)
+  ./.)
+(S
+  (NP It/PRP)
+  was/VBD
+  renamed/VBN
+  in/IN
+  (NP January/NNP)
+  as/IN
+  (NP the/DT Rape/NNP Accountability/NNP Project/NNP)
+  for/IN
+  (NP Education/NNP PAC/NNP)
+  ,/,
+  or/CC
+  (NP RAPE/NNP PAC/NNP)
+  ./.)
+
+
+Chinker Results:
+
+(S
+  (NP (NP Woman/NNP who/WP))
+  accused/VBD
+  (NP (NP Bill/NNP Clinton/NNP))
+  of/IN
+  (NP (NP assault/NN to/TO campaign/NN))
+  against/IN
+  (NP (NP Hillary/NNP presidential/JJ run/NN ./.)))
+(S
+  (NP (NP One/CD))
+  of/IN
+  (NP
+    (NP
+      the/DT
+      women/NNS
+      who/WP
+      has/VBZ
+      accused/VBN
+      former/JJ
+      U.S./NNP
+      President/NNP
+      Bill/NNP
+      Clinton/NNP))
+  of/IN
+  (NP
+    (NP
+      sexual/JJ
+      assault/NN
+      says/VBZ
+      she/PRP
+      has/VBZ
+      agreed/VBN
+      to/TO
+      work/VB))
+  for/IN
+  (NP
+    (NP
+      an/DT
+      anti-Clinton/JJ
+      political/JJ
+      group/NN
+      being/VBG
+      formed/VBN))
+  by/IN
+  (NP
+    (NP
+      a/DT
+      former/JJ
+      advisor/NN
+      to/TO
+      Republican/NNP
+      presidential/JJ
+      candidate/NN
+      Donald/NNP
+      Trump/NNP
+      ./.)))
+(S
+  (NP
+    (NP
+      Kathleen/NNP
+      Willey/NNP
+      ,/,
+      a/DT
+      former/JJ
+      White/NNP
+      House/NNP
+      volunteer/NN
+      who/WP
+      says/VBZ
+      Bill/NNP
+      Clinton/NNP))
+  groped/VBD
+  (NP (NP her/PRP$))
+  in/IN
+  (NP (NP an/DT Oval/NNP Office/NNP hallway/NN))
+  in/IN
+  (NP (NP 1993/CD when/WRB she/PRP))
+  came/VBD
+  (NP
+    (NP
+      to/TO
+      him/PRP
+      tearfully/RB
+      seeking/VBG
+      a/DT
+      paid/VBN
+      job/NN
+      ,/,))
+  said/VBD
+  (NP (NP she/PRP))
+  had/VBD
+  (NP
+    (NP
+      agreed/VBN
+      to/TO
+      become/VB
+      a/DT
+      paid/JJ
+      national/JJ
+      spokeswoman/NN))
+  for/IN
+  (NP (NP a/DT group/NN being/VBG created/VBN))
+  by/IN
+  (NP (NP Roger/NNP Stone/NNP ./.)))
+(S
+  (NP (NP Stone/NNP ,/, a/DT Republican/JJ strategist/NN ,/,))
+  said/VBD
+  (NP
+    (NP
+      the/DT
+      group/NN
+      would/MD
+      become/VB
+      active/JJ
+      should/MD
+      Hillary/NNP
+      Clinton/NNP
+      ,/,
+      Bill/NNP
+      Clinton/NNP
+      's/POS
+      wife/NN
+      ,/,
+      win/VBP
+      the/DT
+      Democratic/JJ
+      nomination/NN))
+  in/IN
+  (NP (NP the/DT 2016/CD race/NN))
+  for/IN
+  (NP (NP the/DT White/NNP House/NNP ./.)))
+(S
+  (NP
+    (NP
+      Clinton/NNP
+      is/VBZ
+      currently/RB
+      the/DT
+      front/NN
+      runner/NN
+      ./.)))
+(S
+  (NP (NP ``/`` This/DT gives/VBZ me/PRP more/JJR))
+  of/IN
+  (NP (NP an/DT opportunity/NN to/TO get/VB this/DT message/NN))
+  out/IN
+  (NP (NP to/TO young/JJ voters/NNS who/WP))
+  were/VBD
+  (NP
+    (NP
+      n't/RB
+      even/RB
+      born/VB
+      or/CC
+      do/VBP
+      n't/RB
+      even/RB
+      remember/VB
+      what/WP))
+  happened/VBD
+  (NP
+    (NP
+      and/CC
+      to/TO
+      the/DT
+      women/NNS
+      who/WP
+      have/VBP
+      suffered/VBN
+      ,/,
+      ''/''
+      Willey/NNP))
+  told/VBD
+  (NP (NP Reuters/NNP ./.)))
+(S
+  (NP (NP Willey/NNP))
+  said/VBD
+  (NP
+    (NP
+      she/PRP
+      will/MD
+      give/VB
+      interviews/NNS
+      and/CC
+      speeches/NNS
+      and/CC
+      appear/VB))
+  in/IN
+  (NP
+    (NP
+      political/JJ
+      advertisements/NNS
+      to/TO
+      ensure/VB
+      the/DT
+      accusations/NNS
+      remain/VBP
+      part/NN))
+  of/IN
+  (NP (NP the/DT political/JJ discourse/NN))
+  during/IN
+  (NP (NP the/DT election/NN campaign/NN ./.)))
+(S
+  (NP
+    (NP
+      ``/``
+      they/PRP
+      are/VBP
+      going/VBG
+      to/TO
+      be/VB
+      confronted/VBN
+      every/DT
+      day/NN
+      ,/,))
+  on/IN
+  (NP (NP radio/NN ,/,))
+  on/IN
+  (NP (NP television/NN ,/,))
+  on/IN
+  (NP (NP billboards/NNS ,/, ''/'' Stone/NNP))
+  told/VBD
+  (NP
+    (NP Reuters/NNP ,/, referring/VBG to/TO the/DT Clintons/NNP ./.)))
+(S
+  (NP (NP He/PRP))
+  said/VBD
+  (NP (NP he/PRP))
+  had/VBD
+  (NP (NP reached/VBN a/DT verbal/JJ agreement/NN))
+  with/IN
+  (NP (NP Willey/NNP but/CC))
+  cautioned/VBD
+  that/IN
+  (NP (NP the/DT group/NN))
+  was/VBD
+  (NP (NP still/RB))
+  in/IN
+  (NP (NP the/DT planning/NN stages/NNS ./.)))
+(S
+  (NP (NP Spokesmen/NNS))
+  for/IN
+  (NP (NP Hillary/NNP and/CC Bill/NNP Clinton/NNP))
+  did/VBD
+  (NP (NP not/RB respond/VB to/TO questions/NNS))
+  about/IN
+  (NP (NP Willey/NNP ./.)))
+(S
+  (NP
+    (NP
+      Stone/NN
+      's/POS
+      political/JJ
+      action/NN
+      committee/NN
+      ,/,
+      which/WDT
+      can/MD
+      raise/VB
+      virtually/RB
+      unlimited/JJ
+      funds/NNS
+      to/TO
+      advocate/VB))
+  for/IN
+  (NP (NP or/CC))
+  against/IN
+  (NP (NP candidates/NNS ,/,))
+  was/VBD
+  (NP (NP originally/RB created/VBN last/JJ year/NN))
+  under/IN
+  (NP (NP the/DT name/NN Women/NNP Against/NNP Hillary/NNP ./.)))
+(S
+  (NP (NP It/PRP))
+  was/VBD
+  (NP (NP renamed/VBN))
+  in/IN
+  (NP (NP January/NNP))
+  as/IN
+  (NP (NP the/DT Rape/NNP Accountability/NNP Project/NNP))
+  for/IN
+  (NP (NP Education/NNP PAC/NNP ,/, or/CC RAPE/NNP PAC/NNP ./.)))
+************************************************************
+************************************************************
+Named Entity Classifier Results 
+************************************************************
+
+Baseline NE:
+1.	(NE Bill/NNP Clinton/NNP)
+2.	(NE Hillary/NNP)
+3.	(NE U.S./NNP)
+4.	(NE Republican/NNP)
+5.	(NE Donald/NNP Trump/NNP)
+6.	(NE Kathleen/NNP Willey/NNP)
+7.	(NE White/NNP House/NNP)
+8.	(NE Oval/NNP)
+9.	(NE Roger/NNP Stone/NNP)
+10.	(NE Stone/NNP)
+11.	(NE Clinton/NNP)
+12.	(NE Democratic/JJ)
+13.	(NE Willey/NNP)
+14.	(NE Reuters/NNP)
+15.	(NE Clintons/NNP)
+16.	(NE Stone/NN)
+17.	(NE Rape/NNP Accountability/NNP Project/NNP)
+18.	(NE Education/NNP PAC/NNP)
+19.	(NE RAPE/NNP PAC/NNP)
+
+------------------------------------------------------------
+
+Regex NE:
+1.	(D_P_JJ_NP Woman/NNP)
+2.	(D_P_JJ_NP Bill/NNP Clinton/NNP)
+3.	(D_P_JJ_NP Hillary/NNP)
+4.	(D_P_JJ_NP former/JJ U.S./NNP President/NNP Bill/NNP Clinton/NNP)
+5.	(D_P_JJ_NP Republican/NNP)
+6.	(D_P_JJ_NP Donald/NNP Trump/NNP)
+7.	(D_P_JJ_NP Kathleen/NNP Willey/NNP)
+8.	(D_P_JJ_NP a/DT former/JJ White/NNP House/NNP)
+9.	(D_P_JJ_NP an/DT Oval/NNP Office/NNP)
+10.	(D_P_JJ_NP Roger/NNP Stone/NNP)
+11.	(D_P_JJ_NP Stone/NNP)
+12.	(D_P_JJ_NP Hillary/NNP Clinton/NNP)
+13.	(D_P_JJ_NP the/DT White/NNP House/NNP)
+14.	(D_P_JJ_NP Clinton/NNP)
+15.	(D_P_JJ_NP Willey/NNP)
+16.	(D_P_JJ_NP Reuters/NNP)
+17.	(D_P_JJ_NP the/DT Clintons/NNP)
+18.	(D_P_JJ_NP Women/NNP Against/NNP Hillary/NNP)
+19.	(D_P_JJ_NP January/NNP)
+20.	(D_P_JJ_NP the/DT Rape/NNP Accountability/NNP Project/NNP)
+21.	(D_P_JJ_NP Education/NNP PAC/NNP)
+22.	(D_P_JJ_NP RAPE/NNP PAC/NNP)
+************************************************************
+************************************************************
+Relation Extractor Results 
+************************************************************
+
+Baseline Relation Extractor:
+Named Entities: 
+(NE Bill/NNP Clinton/NNP) ---> (NE Hillary/NNP)
+Relation: 
+[('of', 'IN'), ('assault', 'NN'), ('to', 'TO'), ('campaign', 'NN'), ('against', 'IN')]
+
+Named Entities: 
+(NE U.S./NNP) ---> (NE Bill/NNP Clinton/NNP)
+Relation: 
+[('President', 'NNP')]
+
+Named Entities: 
+(NE Bill/NNP Clinton/NNP) ---> (NE Republican/NNP)
+Relation: 
+[('of', 'IN'), ('sexual', 'JJ'), ('assault', 'NN'), ('says', 'VBZ'), ('she', 'PRP'), ('has', 'VBZ'), ('agreed', 'VBN'), ('to', 'TO'), ('work', 'VB'), ('for', 'IN'), ('an', 'DT'), ('anti-Clinton', 'JJ'), ('political', 'JJ'), ('group', 'NN'), ('being', 'VBG'), ('formed', 'VBN'), ('by', 'IN'), ('a', 'DT'), ('former', 'JJ'), ('advisor', 'NN'), ('to', 'TO')]
+
+Named Entities: 
+(NE Republican/NNP) ---> (NE Donald/NNP Trump/NNP)
+Relation: 
+[('presidential', 'JJ'), ('candidate', 'NN')]
+
+Named Entities: 
+(NE Kathleen/NNP Willey/NNP) ---> (NE White/NNP House/NNP)
+Relation: 
+[(',', ','), ('a', 'DT'), ('former', 'JJ')]
+
+Named Entities: 
+(NE White/NNP House/NNP) ---> (NE Bill/NNP Clinton/NNP)
+Relation: 
+[('volunteer', 'NN'), ('who', 'WP'), ('says', 'VBZ')]
+
+Named Entities: 
+(NE Bill/NNP Clinton/NNP) ---> (NE Oval/NNP)
+Relation: 
+[('groped', 'VBD'), ('her', 'PRP$'), ('in', 'IN'), ('an', 'DT')]
+
+Named Entities: 
+(NE Oval/NNP) ---> (NE Roger/NNP Stone/NNP)
+Relation: 
+[('Office', 'NNP'), ('hallway', 'NN'), ('in', 'IN'), ('1993', 'CD'), ('when', 'WRB'), ('she', 'PRP'), ('came', 'VBD'), ('to', 'TO'), ('him', 'PRP'), ('tearfully', 'RB'), ('seeking', 'VBG'), ('a', 'DT'), ('paid', 'VBN'), ('job', 'NN'), (',', ','), ('said', 'VBD'), ('she', 'PRP'), ('had', 'VBD'), ('agreed', 'VBN'), ('to', 'TO'), ('become', 'VB'), ('a', 'DT'), ('paid', 'JJ'), ('national', 'JJ'), ('spokeswoman', 'NN'), ('for', 'IN'), ('a', 'DT'), ('group', 'NN'), ('being', 'VBG'), ('created', 'VBN'), ('by', 'IN')]
+
+Named Entities: 
+(NE Stone/NNP) ---> (NE Clinton/NNP)
+Relation: 
+[(',', ','), ('a', 'DT'), ('Republican', 'JJ'), ('strategist', 'NN'), (',', ','), ('said', 'VBD'), ('the', 'DT'), ('group', 'NN'), ('would', 'MD'), ('become', 'VB'), ('active', 'JJ'), ('should', 'MD'), ('Hillary', 'NNP')]
+
+Named Entities: 
+(NE Clinton/NNP) ---> (NE Bill/NNP Clinton/NNP)
+Relation: 
+[(',', ',')]
+
+Named Entities: 
+(NE Bill/NNP Clinton/NNP) ---> (NE Democratic/JJ)
+Relation: 
+[("'s", 'POS'), ('wife', 'NN'), (',', ','), ('win', 'VBP'), ('the', 'DT')]
+
+Named Entities: 
+(NE Democratic/JJ) ---> (NE White/NNP House/NNP)
+Relation: 
+[('nomination', 'NN'), ('in', 'IN'), ('the', 'DT'), ('2016', 'CD'), ('race', 'NN'), ('for', 'IN'), ('the', 'DT')]
+
+Named Entities: 
+(NE Willey/NNP) ---> (NE Reuters/NNP)
+Relation: 
+[('told', 'VBD')]
+
+Named Entities: 
+(NE Reuters/NNP) ---> (NE Clintons/NNP)
+Relation: 
+[(',', ','), ('referring', 'VBG'), ('to', 'TO'), ('the', 'DT')]
+
+Named Entities: 
+(NE Bill/NNP Clinton/NNP) ---> (NE Willey/NNP)
+Relation: 
+[('did', 'VBD'), ('not', 'RB'), ('respond', 'VB'), ('to', 'TO'), ('questions', 'NNS'), ('about', 'IN')]
+
+Named Entities: 
+(NE Rape/NNP Accountability/NNP Project/NNP) ---> (NE Education/NNP PAC/NNP)
+Relation: 
+[('for', 'IN')]
+
+Named Entities: 
+(NE Education/NNP PAC/NNP) ---> (NE RAPE/NNP PAC/NNP)
+Relation: 
+[(',', ','), ('or', 'CC')]
+
+------------------------------------------------------------
+
+Regex Relation Extractor:
+Named Entities: 
+(D_P_JJ_NP Woman/NNP) ---> (D_P_JJ_NP Bill/NNP Clinton/NNP)
+Relation: 
+[('who', 'WP'), ('accused', 'VBD')]
+
+Named Entities: 
+(D_P_JJ_NP Bill/NNP Clinton/NNP) ---> (D_P_JJ_NP Hillary/NNP)
+Relation: 
+[('of', 'IN'), ('assault', 'NN'), ('to', 'TO'), ('campaign', 'NN'), ('against', 'IN')]
+
+Named Entities: 
+(D_P_JJ_NP former/JJ U.S./NNP President/NNP Bill/NNP Clinton/NNP) ---> (D_P_JJ_NP Republican/NNP)
+Relation: 
+[('of', 'IN'), ('sexual', 'JJ'), ('assault', 'NN'), ('says', 'VBZ'), ('she', 'PRP'), ('has', 'VBZ'), ('agreed', 'VBN'), ('to', 'TO'), ('work', 'VB'), ('for', 'IN'), ('an', 'DT'), ('anti-Clinton', 'JJ'), ('political', 'JJ'), ('group', 'NN'), ('being', 'VBG'), ('formed', 'VBN'), ('by', 'IN'), ('a', 'DT'), ('former', 'JJ'), ('advisor', 'NN'), ('to', 'TO')]
+
+Named Entities: 
+(D_P_JJ_NP Republican/NNP) ---> (D_P_JJ_NP Donald/NNP Trump/NNP)
+Relation: 
+[('presidential', 'JJ'), ('candidate', 'NN')]
+
+Named Entities: 
+(D_P_JJ_NP Kathleen/NNP Willey/NNP) ---> (D_P_JJ_NP a/DT former/JJ White/NNP House/NNP)
+Relation: 
+[(',', ',')]
+
+Named Entities: 
+(D_P_JJ_NP a/DT former/JJ White/NNP House/NNP) ---> (D_P_JJ_NP Bill/NNP Clinton/NNP)
+Relation: 
+[('volunteer', 'NN'), ('who', 'WP'), ('says', 'VBZ')]
+
+Named Entities: 
+(D_P_JJ_NP Bill/NNP Clinton/NNP) ---> (D_P_JJ_NP an/DT Oval/NNP Office/NNP)
+Relation: 
+[('groped', 'VBD'), ('her', 'PRP$'), ('in', 'IN')]
+
+Named Entities: 
+(D_P_JJ_NP an/DT Oval/NNP Office/NNP) ---> (D_P_JJ_NP Roger/NNP Stone/NNP)
+Relation: 
+[('hallway', 'NN'), ('in', 'IN'), ('1993', 'CD'), ('when', 'WRB'), ('she', 'PRP'), ('came', 'VBD'), ('to', 'TO'), ('him', 'PRP'), ('tearfully', 'RB'), ('seeking', 'VBG'), ('a', 'DT'), ('paid', 'VBN'), ('job', 'NN'), (',', ','), ('said', 'VBD'), ('she', 'PRP'), ('had', 'VBD'), ('agreed', 'VBN'), ('to', 'TO'), ('become', 'VB'), ('a', 'DT'), ('paid', 'JJ'), ('national', 'JJ'), ('spokeswoman', 'NN'), ('for', 'IN'), ('a', 'DT'), ('group', 'NN'), ('being', 'VBG'), ('created', 'VBN'), ('by', 'IN')]
+
+Named Entities: 
+(D_P_JJ_NP Stone/NNP) ---> (D_P_JJ_NP Hillary/NNP Clinton/NNP)
+Relation: 
+[(',', ','), ('a', 'DT'), ('Republican', 'JJ'), ('strategist', 'NN'), (',', ','), ('said', 'VBD'), ('the', 'DT'), ('group', 'NN'), ('would', 'MD'), ('become', 'VB'), ('active', 'JJ'), ('should', 'MD')]
+
+Named Entities: 
+(D_P_JJ_NP Hillary/NNP Clinton/NNP) ---> (D_P_JJ_NP Bill/NNP Clinton/NNP)
+Relation: 
+[(',', ',')]
+
+Named Entities: 
+(D_P_JJ_NP Bill/NNP Clinton/NNP) ---> (D_P_JJ_NP the/DT White/NNP House/NNP)
+Relation: 
+[("'s", 'POS'), ('wife', 'NN'), (',', ','), ('win', 'VBP'), ('the', 'DT'), ('Democratic', 'JJ'), ('nomination', 'NN'), ('in', 'IN'), ('the', 'DT'), ('2016', 'CD'), ('race', 'NN'), ('for', 'IN')]
+
+Named Entities: 
+(D_P_JJ_NP Willey/NNP) ---> (D_P_JJ_NP Reuters/NNP)
+Relation: 
+[('told', 'VBD')]
+
+Named Entities: 
+(D_P_JJ_NP Stone/NNP) ---> (D_P_JJ_NP Reuters/NNP)
+Relation: 
+[('told', 'VBD')]
+
+Named Entities: 
+(D_P_JJ_NP Reuters/NNP) ---> (D_P_JJ_NP the/DT Clintons/NNP)
+Relation: 
+[(',', ','), ('referring', 'VBG'), ('to', 'TO')]
+
+Named Entities: 
+(D_P_JJ_NP Hillary/NNP) ---> (D_P_JJ_NP Bill/NNP Clinton/NNP)
+Relation: 
+[('and', 'CC')]
+
+Named Entities: 
+(D_P_JJ_NP Bill/NNP Clinton/NNP) ---> (D_P_JJ_NP Willey/NNP)
+Relation: 
+[('did', 'VBD'), ('not', 'RB'), ('respond', 'VB'), ('to', 'TO'), ('questions', 'NNS'), ('about', 'IN')]
+
+Named Entities: 
+(D_P_JJ_NP January/NNP) ---> (D_P_JJ_NP the/DT Rape/NNP Accountability/NNP Project/NNP)
+Relation: 
+[('as', 'IN')]
+
+Named Entities: 
+(D_P_JJ_NP the/DT Rape/NNP Accountability/NNP Project/NNP) ---> (D_P_JJ_NP Education/NNP PAC/NNP)
+Relation: 
+[('for', 'IN')]
+
+Named Entities: 
+(D_P_JJ_NP Education/NNP PAC/NNP) ---> (D_P_JJ_NP RAPE/NNP PAC/NNP)
+Relation: 
+[(',', ','), ('or', 'CC')]
+
+************************************************************
+----------------------------------------------------------------------

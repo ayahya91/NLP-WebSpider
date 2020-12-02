@@ -1,0 +1,42 @@
+***************************************************************
+!!!!!!!!!!!!!!!!!!<------>Important<------>!!!!!!!!!!!!!!!!!!!!!!! 
+Find all python modules installed---------DONE
+Write Shell Script to re-install those
+Backup all files
+Make Xubuntu OS Bootable disk-----DONE
+Fresh-Install Xubuntu
+***************************************************************
+Start writing site
+
+Begin interfacing espeak into Oracle
+
+Work on Computer Vision/ Facial Recognition aspect of Oracle
+
+Build Knowledge Corpus, Testing Corpus, Training Corpus
+(start with nltk corpus', keep in mind cultural change in linguistics)
+
+Create some method of re-inputting log files back through the agent for further training
+
+
+Data Indexing
+
+Think Continuing Learning
+
+---------------------------------------------------------------------
+
+Train to read file of listed Urls -------------DONE
+
+Build overall accuracy/performance for all modules [Seperate Files into Specific Functions (tagger, tokenizer, chunker, etc)] OR use nltk modules? 
+USE NLTK Modules and your own (context chunker) DONE
+
+------Modify tagger with longer 'grams 		DONE: Using nltk pos_tag()
+
+Re-model __init__ to be more efficient with source parameter --DONE
+
+Re-implement stringify for nltk_chunker only, check nltk documentation. ----------DONE
+
+Merge Named Entities-----DONE (sticking with baseline nltk due to most promising results)
+
+Merge Named Entities and RelExtracter-----DONE
+
+Focus on one News article and continuosly train chunker and nerc until it reaches satisfactory results > 90 %  -----DONE
